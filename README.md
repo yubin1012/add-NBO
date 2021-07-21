@@ -38,7 +38,7 @@
 ![텍스트](https://postfiles.pstatic.net/MjAyMTA3MjFfMTU2/MDAxNjI2ODMyNzgyMDA3.zE3iFWdDHW7k9JsynfLbvaXadzZGu_UnK9qCY-Zcz8sg.vP63l8FOseGbxjjlLaG2jqUGDJnz6vuZeQgOdojIsWkg.PNG.yubin_1012/image.png?type=w966)
 
 
-git 커밋을 많이 하긴 하였으나, 최근 vscode와 xshell로만 커밋을 하였고 더군다나 지급받은 노트북이라 설정이 제대로 되어있지 않았습니다.
+git 커밋을 많이 하긴 하였으나, 최근 vscode와 xshell로만 커밋을 하였고 지급받은 노트북이라 설정이 제대로 되어있지 않았습니다.
 
 더군다나 근 2년간 가상머신으로는 간단한 실습만 하여 딱히 커밋을 한 적이 없어 저를 당황시킨 부분이 있었습니다.
 
